@@ -8,7 +8,7 @@ Kas grubu bazlı egzersiz rehberi, kişisel program oluşturma ve ilerleme takib
 
 ## ✨ Özellikler
 
-- 🫀 **Kas Grubu Haritası** — Vücut üzerinde tıklanabilir kas grupları (ön/arka görünüm)
+- 🫀 **Kas Grubu Haritası** — Vücut üzerinde tıklanabilir kas grupları (ön/arka görünüm); her kas bölgesi SVG maskeleme (`<mask>`) yöntemiyle vücut görseli üzerine hassas şekilde konumlandırılmıştır
 - 📋 **Egzersiz Rehberi** — Her kas grubu için 5 farklı egzersiz, set/tekrar bilgisi ve açıklamalar
 - ❤️ **Favoriler** — Beğenilen egzersizleri kaydet ve listele
 - 👤 **Kullanıcı Sistemi** — Kayıt, giriş ve oturum yönetimi
@@ -87,12 +87,6 @@ python app.py
 | POST | `/api/login` | Giriş |
 | POST | `/api/logout` | Çıkış |
 | GET/POST/DELETE | `/api/favorites` | Favori egzersiz yönetimi |
-
----
-
-## 🔗 Canlı Demo
-
-👉 [kullanici.pythonanywhere.com](https://kullanici.pythonanywhere.com)
 
 ---
 
