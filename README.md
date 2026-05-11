@@ -77,6 +77,13 @@ python app.py
 
 ---
 
+## 🖼️ Projenin Görüntüsü
+
+![Hipertrofi](Hiper1.png)
+![Hipertrofi](Hiper2.png)
+
+---
+
 ## 🌐 API Endpoint'leri
 
 | Method | Endpoint | Açıklama |
